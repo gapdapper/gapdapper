@@ -17,6 +17,12 @@
 - Implementing **Spring Security** for securing Java-based applications
 - Refactoring and working with **legacy code** to improve maintainability and scalability
 
+### Find Me Elsewhere
+
+- 🎓 **Student GitHub**: [My Student GitHub](https://github.com/gapdapperr)  
+  _This account is dedicated to my academic projects, class assignments, and learning experiments._
+
+
 
 I'm passionate about building scalable, maintainable, and user-friendly applications — from backend APIs to sleek frontends.
 
