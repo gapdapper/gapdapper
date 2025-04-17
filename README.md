@@ -10,6 +10,14 @@
 🗃️ **Databases**: MongoDB, MySQL  
 🎨 **Frontend Styling**: jQuery, Bootstrap, Tailwind CSS  
 
+### Currently Interested In
+
+- **Java Spring** & **Spring Boot** for building robust backend systems
+- Working with **DTOs** (Data Transfer Objects) to manage data flow in applications
+- Implementing **Spring Security** for securing Java-based applications
+- Refactoring and working with **legacy code** to improve maintainability and scalability
+
+
 I'm passionate about building scalable, maintainable, and user-friendly applications — from backend APIs to sleek frontends.
 
 Let's connect and build something cool! 🚀
