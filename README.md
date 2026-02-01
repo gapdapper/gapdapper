@@ -4,17 +4,18 @@
 
 <h3 align="center">👋 A passionate Software Developer from Thailand</h3>
 
-💻 **Main Languages**: Java, JavaScript, TypeScript, Python  
-⚙️ **Frameworks**: Vue.js, Node.js, Express.js, Spring, Spring Boot  
-🛠️ **Libraries & Tools**: JPA, Hibernate, Prisma, Docker, Mongoose  
-🗃️ **Databases**: MongoDB, MySQL  
+💻 **Main Languages**: Java, JavaScript, TypeScript, C#, PHP, Python  
+⚙️ **Frameworks**: Vue.js, Angular.js, React.js, Node.js, Express.js, Spring, Spring Boot  
+🛠️ **Libraries & Tools**: JPA, Hibernate, Prisma, Drizzle ORM, Docker, Mongoose, Jenkins
+🗃️ **Databases**: MongoDB, MySQL, Firebase
 🎨 **Frontend Styling**: jQuery, Bootstrap, Tailwind CSS  
 
 ### Currently Interested In
 
-- **Java Spring** & **Spring Boot** for building robust backend systems
-- Working with **DTOs** (Data Transfer Objects) to manage data flow in applications
-- Implementing **Spring Security** for securing Java-based applications
+- Building full-stack web applications using modern frontend and backend technologies
+- Developing scalable backend services with Java Spring / Spring Boot and Node.js (Express)
+- Designing clean APIs and managing data flow using DTOs and best practices
+- Creating responsive and user-friendly interfaces with modern frontend frameworks
 - Refactoring and working with **legacy code** to improve maintainability and scalability
 
 ### Find Me Elsewhere
@@ -35,11 +36,12 @@ Let's connect and build something cool! 🚀
 
 ### Languages
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ### Technologies
 
@@ -49,6 +51,8 @@ Let's connect and build something cool! 🚀
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+[![Angular](https://img.shields.io/badge/Angular-000?logo=angular&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-000?logo=react&logoColor=%2361DAFB)](#)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
@@ -56,8 +60,10 @@ Let's connect and build something cool! 🚀
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
+[![Drizzle](https://img.shields.io/badge/Drizzle-000?logo=drizzle&logoColor=000)](#)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=Mongoose)
 ![Spring%20Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring%20Boot)
+[![Jenkins](https://img.shields.io/badge/Jenkins-000?logo=jenkins&logoColor=white)](#)
 
 
 ### Projects
@@ -72,7 +78,7 @@ Let's connect and build something cool! 🚀
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gapdapper&show_icons=true&locale=en&layout=compact" alt="gapdapper" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gapdapper&show_icons=true&locale=en" alt="gapdapper" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gapdapper&show_icons=true&locale=en" alt="gapdapper" /></p> -->
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gapdapper&theme=dark)
